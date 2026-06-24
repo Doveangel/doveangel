@@ -17,7 +17,7 @@ In our Computer Science class,we learned that *machine learning* relies heavily 
 
 # EXERCISE 5
 |Tool   |                    Purpose                                                                                   |Link       |                                                                                                      
-|----------------------------------------------------------------------------------------------------------------------------------|
+|-------|--------------------------------------------------------------------------------------------------------------|-----------|
 |Github | Essential for version control and hosting portfolio projects                                                 | github.com|
 |Claude |Widely regarded by coding students as one of the best conversational LLMs for debugging complex software logic|claude.ai  |
 
